@@ -14,7 +14,7 @@ import android.text.TextUtils;
 
 import com.android.settings.item.NvramUtil;
 
-import android.net.ethernet.EthernetManager;
+
 
 /**
  * Created by hjiang on 17-4-18.
