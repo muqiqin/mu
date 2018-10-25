@@ -3,7 +3,7 @@ package com.android.settings;
  android.content.BroadcastReceiver;
  android.content.Context;
 import android.content.Intent;
-import android.content.IntentFilter;
+jkimport android.content.IntentFilter;
 import android.net.ConnectivityManager;
 import android.net.NetworkConfigInfo;
 import android.net.NetworkInfo;
