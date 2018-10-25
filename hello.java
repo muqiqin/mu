@@ -15,6 +15,7 @@ import android.text.TextUtils;
 import com.android.settings.item.NvramUtil;
 
 add hello
+delete hello
 
 /**
  * Created by hjiang on 17-4-18.
