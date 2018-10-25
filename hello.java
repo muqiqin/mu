@@ -4,7 +4,11 @@ package com.android.settings;
  android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
- android.net.ConnectivityManager;
+<<<<<<< Updated upstream
+import android.net.ConnectivityManager;
+=======
+import android.net.ConnectivityManager;
+>>>>>>> Stashed changes
 import android.net.NetworkConfigInfo;
 import android.net.NetworkInfo;
 import android.os.Bundle;
