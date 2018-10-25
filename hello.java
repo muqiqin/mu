@@ -1,6 +1,6 @@
 package com.android.settings;
 
-import android.content.BroadcastReceiver;
+ android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
